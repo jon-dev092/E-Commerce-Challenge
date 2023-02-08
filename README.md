@@ -12,10 +12,9 @@ Npm Installs
 - included but might require to run "npm install" if necessary on the terminal. 
 
 ## Usage:
-[Walkthrough Video]()
+[Walkthrough Video](https://user-images.githubusercontent.com/112823750/217396018-4425688a-594d-4c6a-804a-737674deeb9a.webm)
 
 
 
 ## Links:
 [Github Repo](https://github.com/jon-dev092/E-Commerce-Challenge)
-
